@@ -2,7 +2,7 @@
 - 👀 I’m interested in human population genomics and evolution.
 - 🌱 I’m currently learning maths and stats.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: santiago.medina@cinvestav.mx
 
 <!---
 santiago1234/santiago1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
